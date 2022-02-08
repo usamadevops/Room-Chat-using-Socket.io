@@ -15,7 +15,7 @@ app.use(express.static(path.join(__dirname,'public')));
 
 
 
-const botname='Chatcode Bot';
+const botname='UsamaBOT';
 
 
 

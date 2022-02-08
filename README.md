@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+I am a React Native Developer from Pakistan
+- 🔭 Working on multiple frontend and backend project using React Native and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
